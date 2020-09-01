@@ -31,3 +31,17 @@ En el caso de las extensiones estas se instalan despues que ya tenga instalado v
 
 !["Ilustracio"](https://miro.medium.com/max/1024/1*S4ZPZGF9hp3ZMHBtsizg5A.png)
 <br/>
+
+### CONFIGURACION GIT
+Git es una herramiente muy util ya que esta sirve para mantener cualquier tipo de proyecto ya sea una pagina web,android o sistema de escritorio, por asi decirlo git es un sistema de control de versiones para poder facilitar la gestion o modificaciones que se le puedan hacer a un proyecto.
+
+Para poder instalar git tenemos que visitar este link
+ https://git-scm.com/
+
+ <br/>
+
+ ### crear cuenta en githud
+ Para crear una cuenta en githud tenemos que buscarlo en la pagina ofical que este lo encontramos en este vinculo <br/>
+ https://github.com/
+
+Despues nos mostrara un formulario lo cual es un login para registrarnos donde tenemos que agregar un correo electronico y una contraseña para poder acceder, despues que nos deje acceder nos pedira una confirmacion de correo para verificar que el correo es nuestro y listo, ya despues podemos explorar todo lo que contiene githud.
