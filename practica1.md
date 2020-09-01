@@ -14,3 +14,20 @@ Para la instalacion en su ordenador lo unico que tiene que hacer es seguir las i
 
 <br/>
 <br/>
+
+### EXTENSIONES
+<br/>
+En el caso de las extensiones estas se instalan despues que ya tenga instalado visual code estas se buscan en la parte izquierda del editor de codigo y busca las extensiones que usted cree necesario por ejemplo las mas recomendadas son:
+
+* bracket Pair Colorize
+* CodeSnap
+* Debugger for Chrome/Firefox/Microsoft Edge
+* EsLint
+* Live Share con Live Share Audio
+* Mardown Preview
+* Material Icon Theme 
+* Prettier
+* Spanish Language Pack
+
+!["Ilustracio"](https://miro.medium.com/max/1024/1*S4ZPZGF9hp3ZMHBtsizg5A.png)
+<br/>
